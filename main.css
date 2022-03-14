@@ -57,15 +57,16 @@
   
   .location .city {
     color: #0c0b0b;
-    font-size: 32px;
+    font-size: 40px;
     font-weight: 500;
     margin-bottom: 5px;
     font-family: 'Dancing Script', cursive;
   }
   
   .location .date {
-    color: #FFF;
-    font-size: 16px;
+    color: rgb(253, 1, 1);
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
   }
   
   .current .temp {
